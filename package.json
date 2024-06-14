@@ -1,20 +1,20 @@
 {
-  "name": "pomelo",
-  "version": "2.2.7",
-  "homepage": "https://github.com/NetEase/pomelo",
+  "name": "pomelo-hhjc",
+  "version": "2.2.10",
+  "homepage": "https://github.com/letheliu/pomelo-hhjc",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NetEase/pomelo.git"
+    "url": "https://github.com/letheliu/pomelo-hhjc.git"
   },
   "scripts": {
     "test": "grunt"
   },
   "bugs": {
-    "url": "https://github.com/NetEase/pomelo/issues"
+    "url": "https://github.com/letheliu/pomelo-hhjc/issues"
   },
   "licenses": [{
     "type": "MIT",
-    "url": "https://github.com/NetEase/pomelo#license"
+    "url": "https://github.com/letheliu/pomelo-hhjc#license"
   }],
   "keywords": [
     "pomelo",
@@ -22,7 +22,8 @@
     "game",
     "web",
     "realtime",
-    "server"
+    "server",
+    "hhjc"
   ],
   "dependencies": {
     "socket.io": "1.7.2",
@@ -34,7 +35,7 @@
     "pomelo-loader": "0.0.6",
     "pomelo-rpc": "1.0.7",
     "pomelo-protocol": "0.1.6",
-    "pomelo-admin": "1.0.1",
+    "pomelo-admin-hhjc": "1.0.2",
     "pomelo-logger": "0.1.7",
     "pomelo-scheduler": "0.3.9",
     "ws": "1.1.1",
